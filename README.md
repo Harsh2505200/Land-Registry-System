@@ -9,28 +9,6 @@ The **Land Registry System** is a **blockchain-based smart contract** designed t
 ✅ **Instant Verification** – Anyone can verify land details directly on the blockchain.  
 ✅ **Fraud Prevention** – Ensures that only unregistered land can be added.  
 
-## ⚡ Smart Contract Functions  
-
-### 1️⃣ Register Land  
-```solidity
-function registerLand(uint256 _id, string memory _location, uint256 _area) public
-
-📌 Registers a new land parcel with a unique ID, location, and area. The sender becomes the owner.
-2️⃣ Transfer Ownership
-```solidity
-function transferOwnership(uint256 _id, address _newOwner) public
-🔄 Allows the current owner to transfer land ownership to a new owner.
-
-3️⃣ Get Land Details
-```solidity
-function getLand(uint256 _id) public view returns (uint256, string memory, uint256, address, bool)
-🔍 Fetches details of a registered land parcel.
-
-4️⃣ Check Registration Status
-```solidity
-function isLandRegistered(uint256 _id) public view returns (bool)
-✅ Checks if a land parcel is registered on the blockchain.
-
 🛠️ Tech Stack
 🔷 Blockchain Platform: Ethereum
 📝 Smart Contract Language: Solidity (^0.8.0)
