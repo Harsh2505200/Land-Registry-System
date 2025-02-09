@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/land-registry-system.git
 cd land-registry-system
 
 
-2️⃣ Deploy Using Remix IDE
+## 2️⃣ Deploy Using Remix IDE
 Open Remix IDE 🌐
 Create a new Solidity file (LandRegistry.sol) and paste the contract code.
 Compile the contract using Solidity Compiler (0.8.0 or later).
