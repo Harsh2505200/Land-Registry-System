@@ -22,11 +22,20 @@ git clone https://github.com/yourusername/land-registry-system.git
 cd land-registry-system
 
 
-## 2️⃣ Deploy Using Remix IDE
-Open Remix IDE 🌐
-Create a new Solidity file (LandRegistry.sol) and paste the contract code.
-Compile the contract using Solidity Compiler (0.8.0 or later).
-Deploy the contract using Injected Web3 (MetaMask) or a local Ethereum testnet.
+### 2️⃣ Deploy Using Remix IDE  
+```bash
+# Open Remix IDE in your browser
+https://remix.ethereum.org/
+
+# Create a new Solidity file
+touch LandRegistry.sol
+
+# Open LandRegistry.sol and paste the contract code
+
+# Compile the contract using Solidity Compiler (0.8.0 or later)
+
+# Deploy the contract using Injected Web3 (MetaMask) or a local Ethereum testnet
+
 
 
 
