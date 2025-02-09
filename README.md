@@ -15,12 +15,14 @@ The **Land Registry System** is a **blockchain-based smart contract** designed t
 🛠️ **Development & Testing:** Remix IDE  
 
 ### 🚀 Getting Started  
+
+**1️⃣ Clone the Repository**
 ```bash
-# 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/land-registry-system.git
 cd land-registry-system
 
-# 2️⃣ Deploy Using Remix IDE
+**2️⃣ Deploy Using Remix IDE**
+
 # Open Remix IDE in your browser
 https://remix.ethereum.org/
 
