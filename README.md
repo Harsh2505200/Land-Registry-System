@@ -14,12 +14,13 @@ The **Land Registry System** is a **blockchain-based smart contract** designed t
 📝 **Smart Contract Language:** Solidity (`^0.8.0`)  
 🛠️ **Development & Testing:** Remix IDE  
 
-🚀 Getting Started
-1️⃣ Clone the Repository
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/yourusername/land-registry-system.git
 cd land-registry-system
-```bash
+
 
 2️⃣ Deploy Using Remix IDE
 Open Remix IDE 🌐
