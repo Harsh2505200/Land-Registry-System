@@ -19,6 +19,7 @@ The **Land Registry System** is a **blockchain-based smart contract** designed t
 ```bash
 git clone https://github.com/yourusername/land-registry-system.git
 cd land-registry-system
+```bash
 
 2️⃣ Deploy Using Remix IDE
 Open Remix IDE 🌐
