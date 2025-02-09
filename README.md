@@ -14,26 +14,6 @@ The **Land Registry System** is a **blockchain-based smart contract** designed t
 📝 **Smart Contract Language:** Solidity (`^0.8.0`)  
 🛠️ **Development & Testing:** Remix IDE  
 
-### 🚀 Getting Started  
-
-**1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/land-registry-system.git
-cd land-registry-system
-
-
-# Open Remix IDE in your browser
-https://remix.ethereum.org/
-
-# Create a new Solidity file
-touch LandRegistry.sol
-
-# Open LandRegistry.sol and paste the contract code
-
-# Compile the contract using Solidity Compiler (0.8.0 or later)
-
-# Deploy the contract using Injected Web3 (MetaMask) or a local Ethereum testnet
-
 
 
 
